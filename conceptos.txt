@@ -1,0 +1,2 @@
+flash globals -> atomicidad defi
+contratos upgradeables / proxies -> escalar contratos y separar logica de storage
